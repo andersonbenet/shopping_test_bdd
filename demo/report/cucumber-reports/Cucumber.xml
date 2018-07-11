@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.690051">
+<testcase classname="Navegar no ecommerce" name="Buscar produto" time="0.690051">
+<system-out><![CDATA[Dado tenha acessado a pagina................................................passed
+Quando informo o produto no campo procurar produtos.........................passed
+E clico no icone pesquisar..................................................passed
+E seleciono um produto na lista de produtos apresentados....................passed
+E clico no botao adicionar ao carrinho......................................passed
+E clico no icone carrinho de compras........................................passed
+Entao vejo o produto no carrinho de compras.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
